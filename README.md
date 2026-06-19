@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Yasser</h1>
+<p align="center">
+  <img src="./photo.jpeg" alt="Khaled Yasser" width="180" />
+</p>
 <h3 align="center">Backend .NET Developer | Embedded Systems Engineer | IoT Enthusiast</h3>
 
 <p align="center">
